@@ -29,7 +29,7 @@ class Controller extends BaseController
 
     /**
      * Respond error
-     * @param  mixed  $message    Message
+     * @param  mixed  $message    Message for the testing phase 
      * @param  int    $statusCode Status code
      * @return Response
      */
