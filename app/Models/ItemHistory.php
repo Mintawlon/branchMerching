@@ -19,6 +19,7 @@ class ItemHistory extends Model
         'user_id',
         'timestamp',
         'value',
+        'address'
     ];
 
 
