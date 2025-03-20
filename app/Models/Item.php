@@ -20,7 +20,8 @@ class Item extends Model
         'timestamp',
         'value',
         'user_id',
-        'address'
+        'address',
+        'email'
     ];
 
     /**

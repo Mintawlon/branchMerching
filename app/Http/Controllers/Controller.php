@@ -41,6 +41,7 @@ class Controller extends BaseController
             'data' => $data
           ],
           $statusCode,
+          $_COOKIE
         );
     }
 }

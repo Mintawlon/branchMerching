@@ -10,9 +10,9 @@ class ItemController extends Controller
     /**
      * Get all records
      *
-     * @param  Request $request Request Item
+     * @param  Request $request Request Item 
      *
-     * @return Response
+     * @return Response echo for the output 
      */
     public function getAllRecords(Request $request)
     {
